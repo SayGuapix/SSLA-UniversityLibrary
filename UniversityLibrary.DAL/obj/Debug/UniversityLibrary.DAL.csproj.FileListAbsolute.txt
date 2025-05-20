@@ -1,0 +1,42 @@
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\Guna.UI2.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\obj\Debug\Universi.AFA54ACE.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\obj\Debug\Universi.AFA54ACE.Up2Date
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\Universi.AFA54ACE.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\Universi.AFA54ACE.Up2Date
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb

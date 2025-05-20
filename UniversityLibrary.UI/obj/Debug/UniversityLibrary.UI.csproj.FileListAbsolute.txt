@@ -1,0 +1,109 @@
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe.config
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\Guna.UI2.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.LoginForm.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.Properties.Resources.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.GenerateResource.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\Universi.01E6FE2C.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.exe
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe.config
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.LoginForm.resources
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.Properties.Resources.resources
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.GenerateResource.cache
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\Universi.01E6FE2C.Up2Date
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.exe
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.pdb
+C:\Users\FREDY\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.MainForm.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe.config
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.LoginForm.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.MainForm.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.Properties.Resources.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.GenerateResource.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\Universi.01E6FE2C.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.exe
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe.config
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.LoginForm.resources
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.MainForm.resources
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.Properties.Resources.resources
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\Universi.01E6FE2C.Up2Date
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.exe
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.pdb
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe.config
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.exe
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UI.pdb
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.dll
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.BLL.pdb
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.LoginForm.resources
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.MainForm.resources
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\Universi.01E6FE2C.Up2Date
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.exe
+C:\Users\Usuario\Desktop\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\bin\Debug\Guna.UI2.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.BookCard.resources
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UI\obj\Debug\UniversityLibrary.UI.bookRegister.resources

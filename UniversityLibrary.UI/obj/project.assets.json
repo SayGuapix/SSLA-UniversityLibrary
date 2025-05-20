@@ -1,0 +1,551 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net48/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Guna.UI2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "UniversityLibrary.BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.DAL": "1.0.0",
+          "UniversityLibrary.ENTITIES": "1.0.0",
+          "UniversityLibrary.UTIL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        }
+      },
+      "UniversityLibrary.DAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        }
+      },
+      "UniversityLibrary.ENTITIES/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        }
+      },
+      "UniversityLibrary.UTIL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net48/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Guna.UI2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "UniversityLibrary.BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.DAL": "1.0.0",
+          "UniversityLibrary.ENTITIES": "1.0.0",
+          "UniversityLibrary.UTIL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        }
+      },
+      "UniversityLibrary.DAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        }
+      },
+      "UniversityLibrary.ENTITIES/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        }
+      },
+      "UniversityLibrary.UTIL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net48/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Guna.UI2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "UniversityLibrary.BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.DAL": "1.0.0",
+          "UniversityLibrary.ENTITIES": "1.0.0",
+          "UniversityLibrary.UTIL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        }
+      },
+      "UniversityLibrary.DAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        }
+      },
+      "UniversityLibrary.ENTITIES/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        }
+      },
+      "UniversityLibrary.UTIL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net48/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Guna.UI2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "UniversityLibrary.BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.DAL": "1.0.0",
+          "UniversityLibrary.ENTITIES": "1.0.0",
+          "UniversityLibrary.UTIL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        }
+      },
+      "UniversityLibrary.DAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        }
+      },
+      "UniversityLibrary.ENTITIES/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        }
+      },
+      "UniversityLibrary.UTIL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Guna.UI2.WinForms/2.0.4.7": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net48/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Guna.UI2.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "UniversityLibrary.BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.DAL": "1.0.0",
+          "UniversityLibrary.ENTITIES": "1.0.0",
+          "UniversityLibrary.UTIL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.BLL.dll": {}
+        }
+      },
+      "UniversityLibrary.DAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.DAL.dll": {}
+        }
+      },
+      "UniversityLibrary.ENTITIES/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.ENTITIES.dll": {}
+        }
+      },
+      "UniversityLibrary.UTIL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "UniversityLibrary.ENTITIES": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityLibrary.UTIL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guna.UI2.WinForms/2.0.4.7": {
+      "sha512": "8BdBYsfnntuICbFMHIZsd5morwURN8Ucsvq7wJeyLV1Z1ze6CAIxVKEirufgjGIiXfF0M0sCr9EVFloZSazWew==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.4.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll",
+        "lib/net45/Guna.UI2.dll",
+        "lib/net461/Guna.UI2.dll",
+        "lib/net472/Guna.UI2.dll",
+        "lib/net48/Guna.UI2.dll",
+        "lib/net6.0-windows7.0/Guna.UI2.dll",
+        "lib/net7.0-windows7.0/Guna.UI2.dll",
+        "lib/netcoreapp3.1/Guna.UI2.dll"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "UniversityLibrary.BLL/1.0.0": {
+      "type": "project",
+      "path": "../UniversityLibrary.BLL/UniversityLibrary.BLL.csproj",
+      "msbuildProject": "../UniversityLibrary.BLL/UniversityLibrary.BLL.csproj"
+    },
+    "UniversityLibrary.DAL/1.0.0": {
+      "type": "project",
+      "path": "../UniversityLibrary.DAL/UniversityLibrary.DAL.csproj",
+      "msbuildProject": "../UniversityLibrary.DAL/UniversityLibrary.DAL.csproj"
+    },
+    "UniversityLibrary.ENTITIES/1.0.0": {
+      "type": "project",
+      "path": "../UniversityLibrary.ENTITIES/UniversityLibrary.ENTITIES.csproj",
+      "msbuildProject": "../UniversityLibrary.ENTITIES/UniversityLibrary.ENTITIES.csproj"
+    },
+    "UniversityLibrary.UTIL/1.0.0": {
+      "type": "project",
+      "path": "../UniversityLibrary.UTIL/UniversityLibrary.UTIL.csproj",
+      "msbuildProject": "../UniversityLibrary.UTIL/UniversityLibrary.UTIL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Guna.UI2.WinForms >= 2.0.4.7",
+      "Newtonsoft.Json >= 13.0.3",
+      "UniversityLibrary.BLL >= 1.0.0",
+      "UniversityLibrary.DAL >= 1.0.0",
+      "UniversityLibrary.ENTITIES >= 1.0.0",
+      "UniversityLibrary.UTIL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\FREDY\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\UniversityLibrary.UI.csproj",
+      "projectName": "UniversityLibrary.UI",
+      "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\UniversityLibrary.UI.csproj",
+      "packagesPath": "C:\\Users\\FREDY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "UsingMicrosoftNETSdk": false,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\FREDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj"
+            },
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj"
+            },
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj"
+            },
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UTIL\\UniversityLibrary.UTIL.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UTIL\\UniversityLibrary.UTIL.csproj"
+            }
+          }
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.4.7, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

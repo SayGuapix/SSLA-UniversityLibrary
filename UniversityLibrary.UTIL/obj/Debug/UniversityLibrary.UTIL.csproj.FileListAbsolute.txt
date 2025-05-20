@@ -1,0 +1,28 @@
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\bin\Debug\Guna.UI2.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\obj\Debug\Universi.A9A272C6.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\Universi.A9A272C6.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\Universi.A9A272C6.Up2Date
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.dll
+C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.UTIL\obj\Debug\UniversityLibrary.UTIL.pdb
