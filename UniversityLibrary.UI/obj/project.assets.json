@@ -473,11 +473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\UniversityLibrary.UI.csproj",
+      "projectUniqueName": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\UniversityLibrary.UI.csproj",
       "projectName": "UniversityLibrary.UI",
-      "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\UniversityLibrary.UI.csproj",
+      "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\UniversityLibrary.UI.csproj",
       "packagesPath": "C:\\Users\\FREDY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\obj\\",
+      "outputPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -498,17 +498,17 @@
       "frameworks": {
         "net48": {
           "projectReferences": {
-            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj": {
-              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj"
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj"
             },
-            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj": {
-              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj"
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj"
             },
-            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj": {
-              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj"
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj"
             },
-            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UTIL\\UniversityLibrary.UTIL.csproj": {
-              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UTIL\\UniversityLibrary.UTIL.csproj"
+            "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UTIL\\UniversityLibrary.UTIL.csproj": {
+              "projectPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UTIL\\UniversityLibrary.UTIL.csproj"
             }
           }
         }

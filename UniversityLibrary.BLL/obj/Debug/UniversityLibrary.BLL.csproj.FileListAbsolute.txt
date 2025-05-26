@@ -53,3 +53,18 @@ C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\Univers
 C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.pdb
 C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.UTIL.dll
 C:\Users\FREDY\Desktop\SAY\MY PROYECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.BLL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.BLL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.UTIL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.UTIL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\obj\Debug\Universi.6F2FABBC.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.pdb

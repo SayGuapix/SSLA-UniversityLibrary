@@ -53,23 +53,40 @@ namespace UniversityLibrary.UI
         private async void btnInicio_Click(object sender, EventArgs e)
         {
             TabControl.SelectedIndex = 0;
+            spInicio.Visible = true;
+            spColeccion.Visible = false;
+            spMultas.Visible = false;
+            spCuenta.Visible = false;
             await RefrescarDatos();
         }
 
         private async void btnColeccion_Click(object sender, EventArgs e)
         {
             TabControl.SelectedIndex = 1;
+            spInicio.Visible = false;
+            spColeccion.Visible = true;
+            spMultas.Visible = false;
+            spCuenta.Visible = false;
             await CargarLibrosPrestados();
         }
 
         private async void btnMultas_Click(object sender, EventArgs e)
         {
             TabControl.SelectedIndex = 2;
+            spInicio.Visible = false;
+            spColeccion.Visible = false;
+            spMultas.Visible = true;
+            spCuenta.Visible = false;
+            await RefrescarDatos();
         }
 
         private async void btnCuenta_Click(object sender, EventArgs e)
         {
             TabControl.SelectedIndex = 3;
+            spInicio.Visible = false;
+            spColeccion.Visible = false;
+            spMultas.Visible = false;
+            spCuenta.Visible = true;
             await RefrescarDatos();
         }
 
@@ -78,38 +95,40 @@ namespace UniversityLibrary.UI
             AjustarTamañoBookCards();
         }
 
+        // cargar las multas
         private async Task CargarMultasPendientes()
         {
-            var firebase = new FirebaseHelper();
             var usuario = Datos.UsuarioActual;
 
             if (usuario == null || string.IsNullOrWhiteSpace(usuario.correo))
             {
                 lblMultas.Text = "Usuario no válido.";
                 lblTotalMultas.Text = string.Empty;
+                btnPagar.Visible = false;
                 return;
             }
 
-            // Convertir el correo en ID válido para Firebase
-            string idMulta = usuario.correo.Replace(".", "_");
+            var multaService = new MultaService();
+            var multa = await multaService.ObtenerMultaUsuarioAsync(usuario.correo);
+            await multaService.ActualizarMultasPagadasAsync();
 
-            // Leer la multa directamente desde la colección "Multas"
-            var multa = await firebase.ReadAsync<Multa>($"Multas/{idMulta}");
-
-            if (multa != null && multa.monto > 0 && multa.estadoPago == false)
+            if (multa != null && multa.monto > 0 && !multa.estadoPago)
             {
                 lblMultas.Text = $"Multa pendiente: 1 | Monto: ${multa.monto:F2}";
                 lblTotalMultas.Text = $"Tienes una multa pendiente de ${multa.monto:F2} con {multa.diasRetraso} día(s) de retraso.";
+                btnPagar.Text = $"Pagar ${multa.monto}";
+                btnPagar.Visible = true;
             }
             else
             {
                 lblMultas.Text = "No tienes ninguna multa pendiente";
                 lblTotalMultas.Text = "Aún no tienes multas por pagar. ¡Sigue así!";
+                btnPagar.Visible = false;
             }
-            btnPagar.Text = "Pagar " + multa.monto.ToString() + "$";
         }
 
 
+        // refrescar los datos
         private async Task RefrescarDatos()
         {
             Usuario usuario = Datos.UsuarioActual;
@@ -160,6 +179,33 @@ namespace UniversityLibrary.UI
                 }
             }
         }
+
+        private async void btnPagar_Click(object sender, EventArgs e)
+        {
+            var usuario = Datos.UsuarioActual;
+            if (usuario == null) return;
+
+            var multaService = new MultaService();
+            var multa = await multaService.ObtenerMultaUsuarioAsync(usuario.correo);
+
+            if (multa != null && multa.monto > 0 && !multa.estadoPago)
+            {
+                // Marcar como pagada
+                multa.estadoPago = true;
+
+                // Guardar cambios
+                string idMulta = usuario.correo.Replace(".", "_");
+                var firebase = new FirebaseHelper();
+                await firebase.UpdateAsync($"Multas/{idMulta}", multa);
+
+                MessageBox.Show("¡Multa pagada exitosamente!");
+
+                // Refrescar la vista
+                await CargarMultasPendientes();
+            }
+        }
+
+
         private async Task CargarLibrosPrestados()
         {
             FirebaseHelper firebaseHelper = new FirebaseHelper();
@@ -181,19 +227,15 @@ namespace UniversityLibrary.UI
 
                         if (libro != null)
                         {
-                            BookCard card = new BookCard(prestamo.id_libro, libro);
+                            BookCard card = new BookCard(prestamo.id_libro, libro, prestamo.fecha_devolucion);
                             flpColeccion.Controls.Add(card);
+
                             AjustarTamañoBookCards();
                             
                         }
                     }
                 }
             }
-        }
-
-        private void btnPagar_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

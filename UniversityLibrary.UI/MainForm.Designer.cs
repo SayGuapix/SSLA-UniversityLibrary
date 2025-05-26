@@ -35,7 +35,6 @@
             this.TabControl = new Guna.UI2.WinForms.Guna2TabControl();
             this.tabPageBiblioteca = new System.Windows.Forms.TabPage();
             this.lblTitulo = new System.Windows.Forms.Label();
-            this.flpInicio = new System.Windows.Forms.FlowLayoutPanel();
             this.tabPageColeccion = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
             this.flpColeccion = new System.Windows.Forms.FlowLayoutPanel();
@@ -54,6 +53,11 @@
             this.btnMultas = new Guna.UI2.WinForms.Guna2Button();
             this.btnColeccion = new Guna.UI2.WinForms.Guna2Button();
             this.btnInicio = new Guna.UI2.WinForms.Guna2Button();
+            this.spCuenta = new Guna.UI2.WinForms.Guna2Separator();
+            this.spMultas = new Guna.UI2.WinForms.Guna2Separator();
+            this.spColeccion = new Guna.UI2.WinForms.Guna2Separator();
+            this.flpInicio = new System.Windows.Forms.FlowLayoutPanel();
+            this.spInicio = new Guna.UI2.WinForms.Guna2Separator();
             this.TabControl.SuspendLayout();
             this.tabPageBiblioteca.SuspendLayout();
             this.tabPageColeccion.SuspendLayout();
@@ -174,18 +178,6 @@
             this.lblTitulo.TabIndex = 4;
             this.lblTitulo.Text = "Galeria de Libros";
             this.lblTitulo.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            // 
-            // flpInicio
-            // 
-            this.flpInicio.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.flpInicio.AutoScroll = true;
-            this.flpInicio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(10)))), ((int)(((byte)(16)))));
-            this.flpInicio.Location = new System.Drawing.Point(-12, 66);
-            this.flpInicio.Name = "flpInicio";
-            this.flpInicio.Size = new System.Drawing.Size(847, 527);
-            this.flpInicio.TabIndex = 0;
             // 
             // tabPageColeccion
             // 
@@ -474,12 +466,64 @@
             this.btnInicio.TabIndex = 5;
             this.btnInicio.Click += new System.EventHandler(this.btnInicio_Click);
             // 
+            // spCuenta
+            // 
+            this.spCuenta.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.spCuenta.Location = new System.Drawing.Point(599, 106);
+            this.spCuenta.Name = "spCuenta";
+            this.spCuenta.Size = new System.Drawing.Size(200, 10);
+            this.spCuenta.TabIndex = 10;
+            this.spCuenta.Visible = false;
+            // 
+            // spMultas
+            // 
+            this.spMultas.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.spMultas.Location = new System.Drawing.Point(397, 106);
+            this.spMultas.Name = "spMultas";
+            this.spMultas.Size = new System.Drawing.Size(200, 10);
+            this.spMultas.TabIndex = 11;
+            this.spMultas.Visible = false;
+            // 
+            // spColeccion
+            // 
+            this.spColeccion.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.spColeccion.Location = new System.Drawing.Point(195, 106);
+            this.spColeccion.Name = "spColeccion";
+            this.spColeccion.Size = new System.Drawing.Size(200, 10);
+            this.spColeccion.TabIndex = 12;
+            this.spColeccion.Visible = false;
+            // 
+            // flpInicio
+            // 
+            this.flpInicio.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.flpInicio.AutoScroll = true;
+            this.flpInicio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(10)))), ((int)(((byte)(16)))));
+            this.flpInicio.Location = new System.Drawing.Point(-12, 66);
+            this.flpInicio.Name = "flpInicio";
+            this.flpInicio.Size = new System.Drawing.Size(847, 527);
+            this.flpInicio.TabIndex = 0;
+            // 
+            // spInicio
+            // 
+            this.spInicio.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.spInicio.Location = new System.Drawing.Point(-4, 106);
+            this.spInicio.Name = "spInicio";
+            this.spInicio.Size = new System.Drawing.Size(200, 10);
+            this.spInicio.TabIndex = 11;
+            this.spInicio.Visible = false;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(10)))), ((int)(((byte)(16)))));
             this.ClientSize = new System.Drawing.Size(795, 692);
+            this.Controls.Add(this.spInicio);
+            this.Controls.Add(this.spColeccion);
+            this.Controls.Add(this.spMultas);
+            this.Controls.Add(this.spCuenta);
             this.Controls.Add(this.btnCuenta);
             this.Controls.Add(this.TabControl);
             this.Controls.Add(this.btnMultas);
@@ -488,7 +532,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "MainForm";
+            this.Text = "SSLA University Library";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.Resize += new System.EventHandler(this.MainForm_Resize);
             this.TabControl.ResumeLayout(false);
@@ -521,7 +565,6 @@
         private Guna.UI2.WinForms.Guna2Button btnColeccion;
         private Guna.UI2.WinForms.Guna2Separator Separator3;
         private Guna.UI2.WinForms.Guna2Separator Separator2;
-        private System.Windows.Forms.FlowLayoutPanel flpInicio;
         private Guna.UI2.WinForms.Guna2GradientButton btnDevolver;
         private System.Windows.Forms.FlowLayoutPanel flpColeccion;
         private System.Windows.Forms.Label lblTitulo;
@@ -529,5 +572,10 @@
         private System.Windows.Forms.Label lblTotalMultas;
         private System.Windows.Forms.Label lblAvisoMultas;
         private System.Windows.Forms.Label lblCorreo;
+        private Guna.UI2.WinForms.Guna2Separator spCuenta;
+        private Guna.UI2.WinForms.Guna2Separator spMultas;
+        private Guna.UI2.WinForms.Guna2Separator spColeccion;
+        private System.Windows.Forms.FlowLayoutPanel flpInicio;
+        private Guna.UI2.WinForms.Guna2Separator spInicio;
     }
 }

@@ -1,42 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\",
+  "WorkspaceRootPath": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|c:\\users\\fredy\\desktop\\say\\my proyects\\ssla university library\\universitylibrary.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|c:\\users\\fredy\\desktop\\say\\my projects\\ssla university library\\universitylibrary.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.ui\\bookregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\bookregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4799EB4A-5424-440D-A7C8-08A4ED82015E}|UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.bll\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4799EB4A-5424-440D-A7C8-08A4ED82015E}|UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj|solutionrelative:universitylibrary.bll\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4799EB4A-5424-440D-A7C8-08A4ED82015E}|UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.bll\\multaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4799EB4A-5424-440D-A7C8-08A4ED82015E}|UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj|solutionrelative:universitylibrary.bll\\multaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874CA885-1EFE-42B2-8559-B3014DB80862}|UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.entities\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874CA885-1EFE-42B2-8559-B3014DB80862}|UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj|solutionrelative:universitylibrary.entities\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.ui\\bookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|c:\\users\\fredy\\desktop\\say\\my projects\\ssla university library\\universitylibrary.ui\\bookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\bookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.ui\\bookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\bookcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB4BFEF-C4CA-49D9-8157-68B4A3BF6824}|UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.dal\\firebasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB4BFEF-C4CA-49D9-8157-68B4A3BF6824}|UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj|solutionrelative:universitylibrary.dal\\firebasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874CA885-1EFE-42B2-8559-B3014DB80862}|UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\universitylibrary.entities\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874CA885-1EFE-42B2-8559-B3014DB80862}|UniversityLibrary.ENTITIES\\UniversityLibrary.ENTITIES.csproj|solutionrelative:universitylibrary.entities\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.ui\\bookregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\bookregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{037B1AF6-F72E-4813-A48F-1A69E475FC74}|UniversityLibrary.UI\\UniversityLibrary.UI.csproj|solutionrelative:universitylibrary.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4799EB4A-5424-440D-A7C8-08A4ED82015E}|UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.bll\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4799EB4A-5424-440D-A7C8-08A4ED82015E}|UniversityLibrary.BLL\\UniversityLibrary.BLL.csproj|solutionrelative:universitylibrary.bll\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB4BFEF-C4CA-49D9-8157-68B4A3BF6824}|UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj|C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\universitylibrary.dal\\firebasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB4BFEF-C4CA-49D9-8157-68B4A3BF6824}|UniversityLibrary.DAL\\UniversityLibrary.DAL.csproj|solutionrelative:universitylibrary.dal\\firebasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,40 +54,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookCard.cs",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\BookCard.cs",
+              "DocumentIndex": 4,
+              "Title": "BookCard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\BookCard.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.UI\\BookCard.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\BookCard.cs",
-              "RelativeToolTip": "UniversityLibrary.UI\\BookCard.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAIwJ8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\BookCard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UniversityLibrary.UI\\BookCard.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T18:40:47.805Z"
+              "WhenOpened": "2025-05-26T17:28:12.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultaService.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.BLL\\MultaService.cs",
+              "RelativeDocumentMoniker": "UniversityLibrary.BLL\\MultaService.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.BLL\\MultaService.cs*",
+              "RelativeToolTip": "UniversityLibrary.BLL\\MultaService.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:34:02.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookCard.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\BookCard.cs",
+              "RelativeDocumentMoniker": "UniversityLibrary.UI\\BookCard.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\BookCard.cs",
+              "RelativeToolTip": "UniversityLibrary.UI\\BookCard.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwAYBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:40:47.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.UI\\MainForm.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs",
               "RelativeToolTip": "UniversityLibrary.UI\\MainForm.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAwD0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAnwEUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T18:05:20.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.UI\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs",
               "RelativeToolTip": "UniversityLibrary.UI\\LoginForm.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "LoginForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.UI\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\LoginForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "UniversityLibrary.UI\\LoginForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T18:00:24.014Z",
@@ -100,24 +138,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.BLL\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.BLL\\UsuarioService.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.BLL\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.BLL\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.BLL\\UsuarioService.cs",
               "RelativeToolTip": "UniversityLibrary.BLL\\UsuarioService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAA8wE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T17:56:14.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T17:56:14.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "FirebaseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.DAL\\FirebaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.DAL\\FirebaseHelper.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.DAL\\FirebaseHelper.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.DAL\\FirebaseHelper.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.DAL\\FirebaseHelper.cs",
               "RelativeToolTip": "UniversityLibrary.DAL\\FirebaseHelper.cs",
               "ViewState": "AgIAADAAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,23 +162,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Multas.cs",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\Multas.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\Multas.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.ENTITIES\\Multas.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\Multas.cs",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.ENTITIES\\Multas.cs",
               "RelativeToolTip": "UniversityLibrary.ENTITIES\\Multas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T17:52:17.449Z"
+              "WhenOpened": "2025-05-17T17:52:17.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.UI\\MainForm.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\MainForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "UniversityLibrary.UI\\MainForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T19:52:00.389Z",
@@ -149,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "bookRegister.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\bookRegister.cs",
+              "DocumentMoniker": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\bookRegister.cs",
               "RelativeDocumentMoniker": "UniversityLibrary.UI\\bookRegister.cs",
-              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROYECTS\\SSLA University Library\\UniversityLibrary.UI\\bookRegister.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\FREDY\\Desktop\\SAY\\MY PROJECTS\\SSLA University Library\\UniversityLibrary.UI\\bookRegister.cs [Dise\u00F1o]",
               "RelativeToolTip": "UniversityLibrary.UI\\bookRegister.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T22:40:40.519Z",

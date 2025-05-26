@@ -20,7 +20,7 @@ namespace UniversityLibrary.UI
         public string BookId { get; set; }
         private books _bookData;
 
-        public BookCard(string id, books libro)
+        public BookCard(string id, books libro, string fechaDevolucion = null)
         {
             InitializeComponent();
 
@@ -29,9 +29,30 @@ namespace UniversityLibrary.UI
 
             btnPrestar.FillColor = ColorRandom();
             lblTitulo.Text = libro.Titulo;
-            lblAutor.Text = libro.Autor;
+            lblAutor.Text = $"Autor: {libro.Autor}";
             lblDisponibilidad.Text = $"{libro.CantidadDisponible} / {libro.CantidadTotal}";
+
+            // Si se pasa la fecha de devolución, calcula los días
+            if (!string.IsNullOrEmpty(fechaDevolucion))
+            {
+                DateTime fechaLimite = DateTime.Parse(fechaDevolucion);
+                int dias = (fechaLimite - DateTime.Now).Days;
+
+                lblFechaDevolver.Visible = true;
+
+                if (dias > 0)
+                    lblFechaDevolver.Text = $"Debes devolver en {dias} día(s)";
+                else if (dias < 0)
+                    lblFechaDevolver.Text = $"Te retrasaste {Math.Abs(dias)} día(s)";
+                else
+                    lblFechaDevolver.Text = "¡Debes devolverlo hoy!";
+            }
+            else
+            {
+                lblFechaDevolver.Visible = false;
+            }
         }
+
 
         public async void btnPrestar_Click(object sender, EventArgs e)
         {
@@ -131,6 +152,7 @@ namespace UniversityLibrary.UI
         {
             FirebaseHelper firebaseHelper = new FirebaseHelper();
             UsuarioService usuarioService = new UsuarioService();
+            MultaService multaService = new MultaService();
 
             // Aumentar stock
             _bookData.CantidadDisponible++;
@@ -141,7 +163,7 @@ namespace UniversityLibrary.UI
             usuario.prestamosActivos = Math.Max(0, usuario.prestamosActivos - 1);
             await usuarioService.ActualizarUsuarioAsync(usuario);
 
-            // Cambiar estado del préstamo a "devuelto"
+            // Obtener préstamo activo
             var prestamos = await firebaseHelper.ObtenerPrestamosAsync();
             var prestamo = prestamos.FirstOrDefault(p =>
                 p.Value.id_usuario == Datos.UsuarioActual.correo &&
@@ -150,12 +172,20 @@ namespace UniversityLibrary.UI
 
             if (prestamo.Key != null)
             {
+                // Marcar préstamo como devuelto
                 prestamo.Value.estado = "devuelto";
                 await firebaseHelper.UpdateAsync($"prestamos/{prestamo.Key}", prestamo.Value);
+
+                // ✅ Verificar y generar multa si hay retraso
+                DateTime fechaDevolucion = DateTime.Parse(prestamo.Value.fecha_devolucion);
+                await multaService.VerificarYGenerarMultaAsync(Datos.UsuarioActual.correo, fechaDevolucion);
             }
 
+            // Eliminar el card visualmente
+            btnPrestar.Text = "✔";
             this.Parent?.Controls.Remove(this);
         }
+
 
 
         private Color ColorRandom()
@@ -167,28 +197,6 @@ namespace UniversityLibrary.UI
             int alfa = rand.Next(50, 101);
 
             return Color.FromArgb(alfa, rojo, verde, azul);
-        }
-
-        private void BookCard_Load(object sender, EventArgs e)
-        {
-            // Verifica si el BookCard está dentro de un TabPage
-            TabPage parentTab = this.Parent?.Parent as TabPage;
-
-            if (parentTab != null && parentTab.Parent is TabControl tabControl)
-            {
-                int tabIndex = tabControl.TabPages.IndexOf(parentTab);
-
-                if (tabIndex == 1)
-                {
-                    // Estamos en la pestaña de colección → cambiar el texto del botón
-                    btnPrestar.Text = "-";
-                }
-                else
-                {
-                    // Estamos en la pestaña de inicio
-                    btnPrestar.Text = "+";
-                }
-            }
         }
 
         private void btnPrestar_MouseMove(object sender, MouseEventArgs e)
@@ -233,5 +241,26 @@ namespace UniversityLibrary.UI
             }
         }
 
+        private void BookCard_Load(object sender, EventArgs e)
+        {
+            // Verifica si el BookCard está dentro de un TabPage
+            TabPage parentTab = this.Parent?.Parent as TabPage;
+
+            if (parentTab != null && parentTab.Parent is TabControl tabControl)
+            {
+                int tabIndex = tabControl.TabPages.IndexOf(parentTab);
+
+                if (tabIndex == 1)
+                {
+                    // Estamos en la pestaña de colección → cambiar el texto del botón
+                    btnPrestar.Text = "-";
+                }
+                else
+                {
+                    // Estamos en la pestaña de inicio
+                    btnPrestar.Text = "+";
+                }
+            }
+        }
     }
 }

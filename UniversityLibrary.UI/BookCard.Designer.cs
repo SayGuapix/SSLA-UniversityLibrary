@@ -32,6 +32,7 @@
             this.btnPrestar = new Guna.UI2.WinForms.Guna2Button();
             this.lblAutor = new System.Windows.Forms.Label();
             this.lblTitulo = new System.Windows.Forms.Label();
+            this.lblFechaDevolver = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblDisponibilidad
@@ -55,11 +56,11 @@
             this.btnPrestar.FillColor = System.Drawing.Color.MediumAquamarine;
             this.btnPrestar.Font = new System.Drawing.Font("Segoe UI", 30F);
             this.btnPrestar.ForeColor = System.Drawing.Color.White;
-            this.btnPrestar.Location = new System.Drawing.Point(597, 75);
+            this.btnPrestar.Location = new System.Drawing.Point(584, 65);
             this.btnPrestar.Name = "btnPrestar";
-            this.btnPrestar.Size = new System.Drawing.Size(75, 75);
+            this.btnPrestar.Size = new System.Drawing.Size(88, 85);
             this.btnPrestar.TabIndex = 10;
-            this.btnPrestar.Text = "+";
+            this.btnPrestar.Text = "-";
             this.btnPrestar.TextOffset = new System.Drawing.Point(4, -8);
             this.btnPrestar.Click += new System.EventHandler(this.btnPrestar_Click);
             this.btnPrestar.MouseLeave += new System.EventHandler(this.btnPrestar_MouseLeave);
@@ -89,11 +90,26 @@
             this.lblTitulo.TabIndex = 7;
             this.lblTitulo.Text = "Nombre del libro";
             // 
+            // lblFechaDevolver
+            // 
+            this.lblFechaDevolver.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.lblFechaDevolver.AutoSize = true;
+            this.lblFechaDevolver.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
+            this.lblFechaDevolver.ForeColor = System.Drawing.Color.Gray;
+            this.lblFechaDevolver.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.lblFechaDevolver.Location = new System.Drawing.Point(24, 98);
+            this.lblFechaDevolver.Name = "lblFechaDevolver";
+            this.lblFechaDevolver.Size = new System.Drawing.Size(192, 25);
+            this.lblFechaDevolver.TabIndex = 11;
+            this.lblFechaDevolver.Text = "Devolver en x dias";
+            this.lblFechaDevolver.Visible = false;
+            // 
             // BookCard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(26)))));
+            this.Controls.Add(this.lblFechaDevolver);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.lblDisponibilidad);
             this.Controls.Add(this.btnPrestar);
@@ -112,5 +128,6 @@
         private Guna.UI2.WinForms.Guna2Button btnPrestar;
         private System.Windows.Forms.Label lblAutor;
         private System.Windows.Forms.Label lblTitulo;
+        private System.Windows.Forms.Label lblFechaDevolver;
     }
 }
