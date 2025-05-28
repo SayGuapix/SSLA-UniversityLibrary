@@ -46,6 +46,5 @@ namespace UniversityLibrary.UI
             txtAutor.Clear();
             nudCantidadTotal.Value = 1;
         }
-
     }
 }

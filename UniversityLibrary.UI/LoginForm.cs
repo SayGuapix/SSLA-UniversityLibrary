@@ -38,9 +38,15 @@ namespace UniversityLibrary.UI
             formularioSiguiente.StartPosition = FormStartPosition.Manual;
             formularioSiguiente.Location = posicionActual;
 
+            if (formularioActual.WindowState == FormWindowState.Maximized)
+            {
+                formularioSiguiente.WindowState = FormWindowState.Maximized;
+            }
+
             formularioSiguiente.Show();
             formularioActual.Hide();
         }
+
 
         private async void btnLogin_Click(object sender, EventArgs e)
         {

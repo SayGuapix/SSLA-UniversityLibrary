@@ -12,5 +12,6 @@ namespace UniversityLibrary.ENTITIES
         public string Autor { get; set; }
         public int CantidadTotal { get; set; }
         public int CantidadDisponible { get; set; }
+        public string TipoMaterialID { get; set; }
     }
 }

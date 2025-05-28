@@ -46,7 +46,7 @@
             this.lblBienvenida.AutoSize = true;
             this.lblBienvenida.Font = new System.Drawing.Font("Times New Roman", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBienvenida.ForeColor = System.Drawing.Color.White;
-            this.lblBienvenida.Location = new System.Drawing.Point(115, 72);
+            this.lblBienvenida.Location = new System.Drawing.Point(115, 35);
             this.lblBienvenida.Name = "lblBienvenida";
             this.lblBienvenida.Size = new System.Drawing.Size(501, 52);
             this.lblBienvenida.TabIndex = 1;
@@ -57,7 +57,7 @@
             this.lblTitulo.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblTitulo.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
             this.lblTitulo.ForeColor = System.Drawing.Color.Gray;
-            this.lblTitulo.Location = new System.Drawing.Point(133, 217);
+            this.lblTitulo.Location = new System.Drawing.Point(133, 129);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(467, 26);
             this.lblTitulo.TabIndex = 4;
@@ -79,7 +79,7 @@
             this.txtTitulo.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.txtTitulo.Font = new System.Drawing.Font("Times New Roman", 15F);
             this.txtTitulo.ForeColor = System.Drawing.Color.Black;
-            this.txtTitulo.Location = new System.Drawing.Point(137, 249);
+            this.txtTitulo.Location = new System.Drawing.Point(137, 161);
             this.txtTitulo.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.txtTitulo.Name = "txtTitulo";
             this.txtTitulo.PlaceholderForeColor = System.Drawing.Color.White;
@@ -94,7 +94,7 @@
             this.lblAutor.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblAutor.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
             this.lblAutor.ForeColor = System.Drawing.Color.Gray;
-            this.lblAutor.Location = new System.Drawing.Point(133, 313);
+            this.lblAutor.Location = new System.Drawing.Point(133, 222);
             this.lblAutor.Name = "lblAutor";
             this.lblAutor.Size = new System.Drawing.Size(467, 26);
             this.lblAutor.TabIndex = 6;
@@ -116,7 +116,7 @@
             this.txtAutor.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.txtAutor.Font = new System.Drawing.Font("Times New Roman", 15F);
             this.txtAutor.ForeColor = System.Drawing.Color.Black;
-            this.txtAutor.Location = new System.Drawing.Point(137, 345);
+            this.txtAutor.Location = new System.Drawing.Point(137, 253);
             this.txtAutor.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.txtAutor.Name = "txtAutor";
             this.txtAutor.PlaceholderForeColor = System.Drawing.Color.White;
@@ -129,9 +129,9 @@
             // lblCantidad
             // 
             this.lblCantidad.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblCantidad.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.lblCantidad.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
             this.lblCantidad.ForeColor = System.Drawing.Color.Gray;
-            this.lblCantidad.Location = new System.Drawing.Point(56, 429);
+            this.lblCantidad.Location = new System.Drawing.Point(51, 369);
             this.lblCantidad.Name = "lblCantidad";
             this.lblCantidad.Size = new System.Drawing.Size(467, 26);
             this.lblCantidad.TabIndex = 8;
@@ -147,10 +147,10 @@
             this.nudCantidadTotal.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(10)))), ((int)(((byte)(10)))), ((int)(((byte)(15)))));
             this.nudCantidadTotal.Font = new System.Drawing.Font("Times New Roman", 22.02985F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nudCantidadTotal.ForeColor = System.Drawing.Color.White;
-            this.nudCantidadTotal.Location = new System.Drawing.Point(363, 414);
+            this.nudCantidadTotal.Location = new System.Drawing.Point(370, 346);
             this.nudCantidadTotal.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.nudCantidadTotal.Name = "nudCantidadTotal";
-            this.nudCantidadTotal.Size = new System.Drawing.Size(168, 58);
+            this.nudCantidadTotal.Size = new System.Drawing.Size(160, 70);
             this.nudCantidadTotal.TabIndex = 9;
             this.nudCantidadTotal.UpDownButtonFillColor = System.Drawing.Color.CornflowerBlue;
             // 
@@ -171,7 +171,7 @@
             this.btnRegistrar.ForeColor = System.Drawing.Color.White;
             this.btnRegistrar.HoverState.FillColor = System.Drawing.Color.RoyalBlue;
             this.btnRegistrar.HoverState.FillColor2 = System.Drawing.Color.BlueViolet;
-            this.btnRegistrar.Location = new System.Drawing.Point(263, 510);
+            this.btnRegistrar.Location = new System.Drawing.Point(270, 486);
             this.btnRegistrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(204, 50);

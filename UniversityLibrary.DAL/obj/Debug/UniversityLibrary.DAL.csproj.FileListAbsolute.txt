@@ -40,3 +40,13 @@ C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\Univers
 C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\Universi.AFA54ACE.Up2Date
 C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
 C:\Users\usuario\Desktop\SSLA University Library\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.ENTITIES.pdb
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\Universi.AFA54ACE.Up2Date
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
+C:\Users\FREDY\Desktop\SAY\MY PROJECTS\SSLA University Library\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb
